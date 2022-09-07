@@ -1,0 +1,10 @@
+header {
+    .nav-link {
+        color: black;
+
+        &:hover {
+            font-weight: lighter;
+            font-size: 19px;
+        }
+    }
+}
